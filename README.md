@@ -1,5 +1,5 @@
 ## CS546A Final Project
-<img src="resources/logo.PNG" width="825px" height="137px"></img>
+<img src="resources/demo.PNG" width="713px" height="456px"></img>
 <br>
 A Hospital Managment System which provides patient and doctor a convenient way to access to hospital services
 
@@ -7,17 +7,17 @@ A Hospital Managment System which provides patient and doctor a convenient way t
 [https://youtu.be/OQdMMBOkNhg](https://youtu.be/OQdMMBOkNhg)
 
 ## How to Use:
-1. Install project's dependencies: `npm install`
+1. Install project's dependencies in base folder: `npm install`
 
 2. Seeding MongoDB database: `npm run seed`
 
 3. Start the project: `npm start`
 
-4. Run `http://localhost:3000/` in your browser
+4. Go to `http://localhost:3000/` in your browser
 
 ** Please refer to the following files for sample login data:
-1. `task/Sample_login_data_for_Doctors`
-2. `task/Sample_login_data_for_Patients`
+1. `task/Sample_Account_Doctors`
+2. `task/Sample_Account_Patients`
 
 ## Features
 #### For Patients:
