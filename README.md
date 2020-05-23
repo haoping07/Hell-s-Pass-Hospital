@@ -3,11 +3,11 @@
 A Hospital Managment System which provides patient and doctor a convenient way to access to hospital services
 
 <img src="resources/demo.PNG" width="713px" height="456px"></img>
-<br><br>
+<br>
 
 Demo video: [https://youtu.be/bV_d2aG9TrQ](https://youtu.be/bV_d2aG9TrQ)
 
-## How to Use:
+### Setup (Run on localhost)
 1. Install project's dependencies in base folder: `npm install`
 
 2. Seeding MongoDB database: `npm run seed`
@@ -20,7 +20,7 @@ Demo video: [https://youtu.be/bV_d2aG9TrQ](https://youtu.be/bV_d2aG9TrQ)
 1. `task/Sample_Account_Doctors`
 2. `task/Sample_Account_Patients`
 
-## Features
+### Features
 #### For Patients:
 * Signup / Login
 * Update profile
@@ -35,7 +35,7 @@ Demo video: [https://youtu.be/bV_d2aG9TrQ](https://youtu.be/bV_d2aG9TrQ)
 * Make prescription
 * Update prescription
 
-## Project Structure
+### Project Structure
 * Front-end <br>
 `./view`
 * Server <br>
@@ -43,7 +43,7 @@ Demo video: [https://youtu.be/bV_d2aG9TrQ](https://youtu.be/bV_d2aG9TrQ)
 * Database <br>
 `./data`
 
-## Group members:
+### Group Members:
 * Shih-Hao Lo
 * Hao-Ping Lin
 * Naman Yadav
