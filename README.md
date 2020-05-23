@@ -3,7 +3,7 @@
 <br><br>
 A Hospital Managment System which provides patient and doctor a convenient way to access to hospital services
 
-#### Demo video: [https://youtu.be/OQdMMBOkNhg](https://youtu.be/OQdMMBOkNhg)
+#### Demo video: [https://youtu.be/bV_d2aG9TrQ](https://youtu.be/bV_d2aG9TrQ)
 
 ## How to Use:
 1. Install project's dependencies in base folder: `npm install`
