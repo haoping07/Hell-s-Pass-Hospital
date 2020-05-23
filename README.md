@@ -1,4 +1,4 @@
-## CS546A Final Project
+## Hell's Pass Hospital (Stevens Institute of Technology CS546A Final Project)
 <img src="resources/demo.PNG" width="713px" height="456px"></img>
 <br>
 A Hospital Managment System which provides patient and doctor a convenient way to access to hospital services
