@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Shih-Hao-Lo/CS546A-Fianl-Project#readme",
   "dependencies": {
     "@khanacademy/tota11y": "^0.2.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.4",
     "express": "^4.16.4",
